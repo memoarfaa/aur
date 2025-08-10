@@ -91,7 +91,7 @@ sha256sums=(
   'SKIP'                                                              # Upstream source, efi branch
   '12543085edbcc7467a0e981e42040ee08d1026206cd4a7f8861b00c005bcef11'  # preset_menu-efi.fixsearchpath.diff
   'e79008c08505b8db515bc461e9c0e5ae65889f4ec608708f6648ad9605884eea'  # menu.list-efi.customisations.diff
-  '2093f632b299f37e10b0858dc103b4641ed249cd0c9a2864f1df381d6ce232db'  # "configure_efi.fixgcc15.diff"
+  '28eb75191ee59a048becf24efc1911978722c101aea754301efe26cc623828a5'  # "configure_efi.fixgcc15.diff"
   '2b0c54aa048efbe2dabdb4d3503788a5002a6d62252b504871833b4b470a74e6'  # "79_grub4dos"
   '457c17d8660aadeb7c6ef844319fa24ae77183b428c9ce5d438423ba75728052'  # menu_arch.lst
 )
